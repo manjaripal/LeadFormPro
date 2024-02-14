@@ -32,3 +32,9 @@ form{
     padding: 15px;
     
 }
+
+.g-recaptcha{
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+}
